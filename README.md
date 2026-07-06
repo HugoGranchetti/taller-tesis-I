@@ -47,7 +47,7 @@ install.packages(c(
 
 1. Clonar este repositorio:
 ```bash
-   git clone https://github.com/tu-usuario/taller-tesis-I.git
+   git clone https://github.com/HugoGranchetti/taller-tesis-I.git
    cd taller-tesis-I
 ```
 2. Descargar `ctg-studies.json` siguiendo las instrucciones de la sección "Datos de origen" y colocarlo en el mismo directorio.
